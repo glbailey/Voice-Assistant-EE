@@ -21,3 +21,5 @@ So, why not pick the best of BOTH and build a Voice Assistant Echo Edition (\*un
 The Echo has a fairly well tuned speaker cavity formed from cast metal. All we need to do is disassemble the Echo, extract the speaker and cavity, remove the Voice Assistant PCB from it’s case, 3D print a new enclosure and put it all back together.
 
 <img width="600" height="516" alt="IMG_9264" src="https://github.com/user-attachments/assets/055b9106-ee7a-4f2f-b68e-323731663b22" />
+
+See the WIKI for a step by step procedure to get the best of both worlds and download the 3D Printer files for the printed parts!
